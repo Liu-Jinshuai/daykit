@@ -1,0 +1,25 @@
+# 忽略编译生成的文件
+*.o
+*.out
+
+# 忽略IDE和编辑器生成的文件
+.idea/
+.vscode/
+
+# 忽略依赖管理工具生成的文件
+node_modules/
+vendor/
+
+# 忽略日志文件
+*.log
+
+# 忽略临时文件
+*.tmp
+*.bak
+
+# 忽略敏感信息
+config.ini
+secrets.txt
+
+
+.DS_Store
